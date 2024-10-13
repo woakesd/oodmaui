@@ -1,6 +1,6 @@
 ﻿using Microsoft.Maui.Controls;
 
-namespace OodMaui;
+namespace OodMaui.Views;
 
 public partial class AppShell : Shell
 {
